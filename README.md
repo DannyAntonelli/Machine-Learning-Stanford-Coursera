@@ -1,2 +1,2 @@
 # Machine-Learning-Stanford-Coursera
-Coursera's Machine Learning by Stanford University course assignments
+Programming assignments for [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning) course.
